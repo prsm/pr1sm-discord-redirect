@@ -1,1 +1,1 @@
-# ibois-discord-redirect
+# pr1sm-discord-redirect
